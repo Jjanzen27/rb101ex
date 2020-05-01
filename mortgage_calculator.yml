@@ -1,0 +1,13 @@
+welcome: "Welcome to Mortgage Calculator!"
+mortgage_amount: "Please enter the mortgage amount:"
+invalid_mortgage_amount: 'Sorry, please enter a valid amount.'
+interest_rate: "Please enter the interest rate."
+interest_rate_examples: "Example: Type '5' for 5% or '3.9' for 3.9%"
+invalid_interest_rate: "Sorry, please enter a valid interest rate."
+mortgage_length: "Please enter the mortgage period (in years):"
+invalid_mortgage_length: "Sorry, please enter a valid number of years."
+monthly_payment: "Your monthly mortgage payment will be:"
+total_mortgage: "The total cost of your mortgage will be:"
+calculate_again: "Calculate another mortgage payment?"
+calculate_again_intructions: "Type 'y' or 'yes' to calculate again, or any key to quit."
+goodbye: "Thank you for using the Mortgage Calculator. Have a great day now!"
