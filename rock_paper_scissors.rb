@@ -21,15 +21,15 @@ def win?(first, second)
 end
 
 def input_validation(input)
-  if input == 'r'
+  if input == 'r' || input == 'rock'
     input = 'rock'
-  elsif input == 'p'
+  elsif input == 'p' || input == 'paper'
     input = 'paper'
-  elsif input == 'sc'
+  elsif input == 'sc' || input == 'scissors'
     input = 'scissors'
-  elsif input == 'l'
+  elsif input == 'l' || input == 'lizard'
     input = 'lizard'
-  elsif input == 'sp'
+  elsif input == 'sp' || input == 'spock'
     input = 'spock'
   else
     prompt("Invalid option!")
